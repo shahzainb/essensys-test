@@ -1,5 +1,4 @@
 # Essensys Test
----
 
 Please ensure that NodeJS 4.2.x is installed.
 
